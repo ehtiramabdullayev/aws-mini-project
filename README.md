@@ -1,6 +1,6 @@
 # aws-mini-project
 
-## Create mini public API which can do the basic CRUD operations on an entity (its your choice - it can be Cars, Hotels, Clothes, Books, Projects, etc). No front-end is needed.
+#### Create mini public API which can do the basic CRUD operations on an entity (its your choice - it can be Cars, Hotels, Clothes, Books, Projects, etc). No front-end is needed.
 
 ### Business Requirements
 - each entity has an associated image file
